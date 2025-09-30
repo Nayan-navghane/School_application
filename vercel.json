@@ -1,5 +1,7 @@
 {
+  "installCommand": "npm ci",
   "buildCommand": "npx expo export --platform web",
   "outputDirectory": "web-build",
-  "framework": null
+  "framework": null,
+  "nodeVersion": "18.x"
 }
